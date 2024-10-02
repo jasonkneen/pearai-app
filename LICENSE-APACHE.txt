@@ -1,10 +1,11 @@
-   Apache License
+NOTE FROM FOUNDERS: THIS USED TO BE A CHATGPT RECOMMENDED AND GENERATED EE LICENSE BY MISTAKE. WE APOLOGIZE FOR THE CONFUSION. WE ARE OPEN SOURCED. THE ACTUAL LICENSE HAS BEEN HERE SINCE THE BEGINNING: https://github.com/trypear/pearai-submodule/blob/main/LICENSE
+
+                              Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-NOTE FROM FOUNDERS: THIS USED TO BE A CHATGPT RECOMMENDED AND GENERATED EE LICENSE. WE ARE OPEN SOURCED. THE LICENSE HAS BEEN HERE SINCE THE BEGINNING: https://github.com/trypear/pearai-submodule/blob/main/LICENSE
 
    1. Definitions.
 
@@ -188,7 +189,8 @@ NOTE FROM FOUNDERS: THIS USED TO BE A CHATGPT RECOMMENDED AND GENERATED EE LICEN
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright 2023 PearAI.
+   Copyright 2023 Continue Dev, Inc.
+   Copyright 2024 PearAI.
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
